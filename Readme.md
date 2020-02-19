@@ -1,5 +1,7 @@
 # NoteDoc
 
+A personal library for take notes and writing documents.
+
 ## Install 
 ```
 python setup.py install
